@@ -65,6 +65,7 @@ To build a release APK:
 
 ```bash
 flutter build apk --release
+```
 
 
 ## 🔗 Important Links
@@ -72,5 +73,6 @@ flutter build apk --release
 | Resource | Specification | Details / URL |
 | :--- | :--- | :--- |
 | **📂 GitHub Repository** | Source Code & Development | `https://github.com/Cobby-a/StorekeeperApp.git` |
-| **🎥 Demo Video** | App Walkthrough & Features | [Google Drive Link](Google Drive Link) |
-| **📥 Release APK** | Direct Android Download | [Download v1.0.0](Download v1.0.0) |
+| **🎥 Demo Video** | App Walkthrough & Features | [Google Drive Link](https://drive.google.com/file/d/1jPm9qCyqYcKCfBwsaiuyJNsYiEVtjJyj/view?usp=drive_link) |
+| **📥 Release APK** | Direct Android Download | [Download v1.0.0](https://github.com/Cobby-a/StorekeeperApp/releases/download/v1.0.0/app-release.apk) |
+| **📥 Preview** | Link to Appetize.io Preview | [PreviewLink](https://appetize.io/app/b_o3htcmcoesjbxvi5gaeps6ohd4) |
